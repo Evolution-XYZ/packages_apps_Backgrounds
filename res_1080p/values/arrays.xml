@@ -17,4 +17,67 @@
         <item>propulsion</item>
         <item>tessellation</item>
     </array>
+
+    <array name="evolution_wallpapers" translatable="false">
+        <item>Black</item>
+        <item>DarkBluePastel</item>
+        <item>DarkGreenPastel</item>
+        <item>DarkGrey</item>
+        <item>DarkPinkPastel</item>
+        <item>DarkPurplePastel</item>
+        <item>DarkRedPastel</item>
+        <item>DarkYellowPastel</item>
+        <item>LightBluePastel</item>
+        <item>LightGreenPastel</item>
+        <item>LightGrey</item>
+        <item>LightPinkPastel</item>
+        <item>LightPurplePastel</item>
+        <item>LightRedPastel</item>
+        <item>LightYellowPastel</item>
+        <item>White</item>
+        <item>Darker</item>
+        <item>BasicallyBlue</item>
+        <item>GrungyGreen</item>
+        <item>PrettyPeachy</item>
+        <item>SystemTwo</item>
+        <item>System</item>
+        <item>evolverseve</item>
+        <item>chillspace</item>
+        <item>firefly</item>
+        <item>mistletoe</item>
+        <item>remainder</item>
+        <item>starlight</item>
+        <item>ShapesDarkFilled</item>
+        <item>ShapesDarkOutline</item>
+        <item>ShapesLightFilled</item>
+        <item>ShapesLightOutline</item>
+        <item>CypherDark</item>
+        <item>CypherLight</item>
+        <item>Radiant-Font</item>
+        <item>Radiant-Dark</item>
+        <item>Radiant-Light</item>
+        <item>Roundness-Light</item>
+        <item>Roundness</item>
+        <item>WavesNew-2-Blue</item>
+        <item>WavesNew-2-Light</item>
+        <item>WavesNew-2-Dark</item>
+        <item>WavesNew-2-Black</item>
+        <item>Waves-2-Blue</item>
+        <item>Waves-2-Light</item>
+        <item>Waves-2-Dark</item>
+        <item>Waves-2-Black</item>
+        <item>Letters-Reveal-Blue</item>
+        <item>Letters-Reveal-Dark</item>
+        <item>YellowLight</item>
+        <item>WavyDark</item>
+        <item>WavyLight</item>
+        <item>Evo-X_2.0_Dark</item>
+        <item>Evo-X_2.0_Light</item>
+        <item>ShapeDark</item>
+        <item>Shape</item>
+        <item>FontAltDark</item>
+        <item>FontDark</item>
+        <item>Font</item>
+        <item>Neon</item>
+    </array>
 </resources>
